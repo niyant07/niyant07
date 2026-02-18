@@ -2,7 +2,7 @@
   <img src="banner.png" />
 </p>
 
-<h1 align="center">KHILAN MANGUKIYA</h1>
+<h1 align="center">NIYANT JOSHI</h1>
 <h3 align="center">Engineering Intelligence. Architecting Systems.</h3>
 <h2 align="center">LLM & NLP Engineer</h2>
 
