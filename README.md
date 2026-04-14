@@ -1,27 +1,56 @@
-<p align="center">
-  <img src="banner.png" />
-</p>
+#  Hi, I'm Niyant
 
-<img src="downloads/NAME_IMAGE.png" />
+ Building AI-powered systems, fast websites, and scalable digital products  
 
-<h1 align="center">NIYANT JOSHI</h1>
-<h3 align="center">Engineering Intelligence. Architecting Systems.</h3>
-<h2 align="center">LLM & NLP Engineer</h2>
+---
 
-## ⚡ Strategic Positioning
+## 🧠 About Me
+-  BSc IT student focused on Data Science & AI  
+-  Building real-world AI projects using APIs and automation  
+-  Skilled in creating high-performance static websites  
+-  Exploring multi-agent systems and scalable product development  
 
-I design and build production-ready AI systems that transform raw data into intelligent decision engines.
+---
 
-### Focus Areas:
-- Scalable ML Pipelines  
-- LLM & NLP Systems  
-- AI Automation Workflows  
-- Backend Systems (FastAPI)
+## ⚙️ What I Do
+-  Develop AI-based applications (voice assistants, automation tools)  
+-  Build fast, responsive static websites  
+-  Design backend workflows and automation systems  
 
-![Python](https://img.shields.io/badge/Python-Expert-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
-![Machine Learning](https://img.shields.io/badge/ML-Engineer-red)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" />
-</p>
+## Featured Projects
+
+###  Jarvis AI Assistant  
+AI-powered voice assistant with real-time interaction and Firebase integration  
+
+###  Virtual AI Company  
+Multi-agent AI system simulating a company with specialized AI roles  
+
+###  Axion Pilot  
+Automation and deployment system focused on performance optimization  
+
+###  Koffee Stories  
+Modern responsive website built using Vite + TypeScript  
+
+
+##  Tech Stack
+HTML • CSS • JavaScript • TypeScript • Python  
+Firebase • AI APIs (Gemini, Claude) • Git  
+
+
+##  Current Focus
+- Building scalable AI systems  
+- Automation & workflow optimization  
+- Turning projects into real-world products  
+
+
+##  Goals
+- Create impactful AI tools  
+- Build income through freelance & digital products  
+- Develop a strong technical portfolio  
+
+##  Connect
+- Open to collaborations and freelance opportunities  
+
+
+ *Building silently. Scaling strategically.*
